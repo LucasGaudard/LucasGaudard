@@ -10,6 +10,14 @@ Durante a minha trajetória tive o prazer de desenvolver interfaces responsivas 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" /> Manipulação do DOM para criar interações dinâmicas e responsivas.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGaudard)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" /> 
+Desenvolvimento de interfaces reativas utilizando componentes funcionais, hooks (useState, useEffect) e organização de estado, com foco em reutilização de componentes, performance e experiência do usuário.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaudard)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white" /> 
+Criação de aplicações SPA utilizando arquitetura baseada em componentes, data binding, serviços e consumo de APIs REST, seguindo boas práticas de organização e escalabilidade.
+
+<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" /> 
+Desenvolvimento de APIs REST utilizando Node.js, com foco em integração front-end/back-end, manipulação de dados, autenticação, e estruturação de projetos seguindo padrões modernos.
+
+
+
